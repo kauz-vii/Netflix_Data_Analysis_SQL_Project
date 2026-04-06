@@ -270,3 +270,20 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author – Kaushik Bhadra
 
 This project is part of my SQL portfolio, showcasing PostgreSQL skills by solving real world business problems.
+
+---
+
+## 📢 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushikbhadra07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaushik%20Bhadra-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+
+
+
+
+
+
