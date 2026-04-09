@@ -284,4 +284,3 @@ This project is part of my SQL portfolio, showcasing PostgreSQL skills by solvin
 
 
 
-
