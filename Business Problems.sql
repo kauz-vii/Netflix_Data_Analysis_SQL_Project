@@ -1,5 +1,5 @@
 -- Solutions of 15 business problems
- 
+
 -- 1. Count the number of Movies vs TV Shows
 
 SELECT 
